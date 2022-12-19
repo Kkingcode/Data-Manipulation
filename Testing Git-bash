@@ -1,0 +1,5 @@
+firstnum = int(input ('please enter first number: '))
+secondnum = int(input('please enter second number: '))
+thirdnum = int(input('please enter the last number: '))
+print (max(firstnum,secondnum,thirdnum))
+
